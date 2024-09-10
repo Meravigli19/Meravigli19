@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on SMK TELKOM MALANG
 - 🌱 I’m currently learning Cloud DevOps
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ardianrelva@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love sports , I like travelling, and I like new things
--->
+
